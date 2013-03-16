@@ -1,0 +1,5 @@
+F:\window\Robot\AI-Robot\AI-Robot\bin\Debug\AI-Robot.exe
+F:\window\Robot\AI-Robot\AI-Robot\bin\Debug\AI-Robot.pdb
+F:\window\Robot\AI-Robot\AI-Robot\obj\Debug\AI-Robot.csprojResolveAssemblyReference.cache
+F:\window\Robot\AI-Robot\AI-Robot\obj\Debug\AI-Robot.exe
+F:\window\Robot\AI-Robot\AI-Robot\obj\Debug\AI-Robot.pdb
