@@ -1,4 +1,0 @@
-Robot
-=====
-
-Auto reply robot
