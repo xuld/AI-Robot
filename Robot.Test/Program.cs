@@ -11,15 +11,16 @@ namespace Xuld.Robot.Test {
             Console.WriteLine("输入任何文字并回车...");
 
             Xuld.Robot.Robot robot = new Xuld.Robot.DefaultRobot();
+
             string s;
 
             while((s = Console.ReadLine()) != null) {
+                //string[] result = Xuld.Robot.ChineseSplitter.Split(s);
+                //string f1 = String.Join("/", result);
 
-                string f = String.Join("/", Xuld.Robot.ChineseSplitter.Split(s));
+                string f2 = robot.Process(s, "{s}");
 
-              // string f = robot.Process(s, "{s}");
-
-               Console.WriteLine(f);
+                Console.WriteLine(f2);
 
             }
 

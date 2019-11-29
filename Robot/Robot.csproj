@@ -43,6 +43,7 @@
     <Compile Include="Arithmetic\Arithmetic.cs" />
     <Compile Include="ChineseSplitter.cs" />
     <Compile Include="DefaultRobot.cs" />
+    <Compile Include="LostXmas.cs" />
     <Compile Include="Robot.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Arithmetic\Scanner.cs" />
